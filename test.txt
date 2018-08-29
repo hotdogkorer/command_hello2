@@ -1,5 +1,5 @@
-Local test.txt
-Local github
+//First GitHub modification
+//Second Local responsitory
 아무거나 쓴다 
 테스트용 
 파일 생성용 
